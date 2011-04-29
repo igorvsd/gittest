@@ -4,7 +4,7 @@
  * Time: 0:27
  */
 
-public class Main {
+public static class Main {
 
 
 }
