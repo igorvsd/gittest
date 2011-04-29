@@ -7,6 +7,6 @@
     <groupId>gittest</groupId>
     <artifactId>gittest</artifactId>
     <version>1.0</version>
-
+<plugin>abaxaba-plugin</plugin>
     
 </project>
