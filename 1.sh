@@ -1,3 +1,3 @@
 #!/bin/bash
 date
-echo '1'
+echo '2'
